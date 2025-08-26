@@ -77,8 +77,4 @@ Note: Manual upload is not recommended for large projects or frequent updates. F
 - Steps and code are easy to read  
 - Highlights important notes  
 
----
-
-If you want, I can **also make a matching README for your second repo** that shows **Git upload with commands**, styled the same way for consistency.  
-
-Do you want me to do that?
+--
